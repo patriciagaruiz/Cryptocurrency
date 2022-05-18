@@ -1,0 +1,226 @@
+id;name;image
+ethereum-ecosystem;Ethereum Ecosystem;https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880
+ethereum-ecosystem;Ethereum Ecosystem;https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707
+ethereum-ecosystem;Ethereum Ecosystem;https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389
+smart-contract-platform;Smart Contract Platform;https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880
+smart-contract-platform;Smart Contract Platform;https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850
+smart-contract-platform;Smart Contract Platform;https://assets.coingecko.com/coins/images/975/small/cardano.png?1547034860
+binance-smart-chain;BNB Chain Ecosystem;https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707
+binance-smart-chain;BNB Chain Ecosystem;https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389
+binance-smart-chain;BNB Chain Ecosystem;https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850
+polygon-ecosystem;Polygon Ecosystem;https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707
+polygon-ecosystem;Polygon Ecosystem;https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389
+polygon-ecosystem;Polygon Ecosystem;https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850
+avalanche-ecosystem;Avalanche Ecosystem;https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707
+avalanche-ecosystem;Avalanche Ecosystem;https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389
+avalanche-ecosystem;Avalanche Ecosystem;https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850
+moonriver-ecosystem;Moonriver Ecosystem;https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707
+moonriver-ecosystem;Moonriver Ecosystem;https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389
+moonriver-ecosystem;Moonriver Ecosystem;https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850
+fantom-ecosystem;Fantom Ecosystem;https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707
+fantom-ecosystem;Fantom Ecosystem;https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389
+fantom-ecosystem;Fantom Ecosystem;https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766
+stablecoins;Stablecoins;https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707
+stablecoins;Stablecoins;https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389
+stablecoins;Stablecoins;https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766
+arbitrum-ecosystem;Arbitrum Ecosystem;https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707
+arbitrum-ecosystem;Arbitrum Ecosystem;https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389
+arbitrum-ecosystem;Arbitrum Ecosystem;https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744
+near-protocol-ecosystem;Near Protocol Ecosystem;https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707
+near-protocol-ecosystem;Near Protocol Ecosystem;https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389
+near-protocol-ecosystem;Near Protocol Ecosystem;https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734
+exchange-based-tokens;Exchange-based Tokens;https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850
+exchange-based-tokens;Exchange-based Tokens;https://assets.coingecko.com/coins/images/7310/small/oCw2s3GI_400x400.jpeg?1645172042
+exchange-based-tokens;Exchange-based Tokens;https://assets.coingecko.com/coins/images/8418/small/leo-token.png?1558326215
+centralized-exchange-token-cex;Centralized Exchange Token (CEX);https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850
+centralized-exchange-token-cex;Centralized Exchange Token (CEX);https://assets.coingecko.com/coins/images/7310/small/oCw2s3GI_400x400.jpeg?1645172042
+centralized-exchange-token-cex;Centralized Exchange Token (CEX);https://assets.coingecko.com/coins/images/8418/small/leo-token.png?1558326215
+xdai-ecosystem;Gnosis Chain Ecosystem;https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389
+xdai-ecosystem;Gnosis Chain Ecosystem;https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744
+xdai-ecosystem;Gnosis Chain Ecosystem;https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700
+decentralized-finance-defi;Decentralized Finance (DeFi);https://assets.coingecko.com/coins/images/13442/small/steth_logo.png?1608607546
+decentralized-finance-defi;Decentralized Finance (DeFi);https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734
+decentralized-finance-defi;Decentralized Finance (DeFi);https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700
+solana-ecosystem;Solana Ecosystem;https://assets.coingecko.com/coins/images/4128/small/solana.png?1640133422
+solana-ecosystem;Solana Ecosystem;https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700
+solana-ecosystem;Solana Ecosystem;https://assets.coingecko.com/coins/images/13397/small/Graph_Token.png?1608145566
+cardano-ecosystem;Cardano Ecosystem;https://assets.coingecko.com/coins/images/975/small/cardano.png?1547034860
+cardano-ecosystem;Cardano Ecosystem;https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700
+cardano-ecosystem;Cardano Ecosystem;https://assets.coingecko.com/coins/images/2484/small/Ergo.png?1574682618
+non-fungible-tokens-nft;Non-Fungible Tokens (NFT);https://assets.coingecko.com/coins/images/13446/small/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.png?1631696776
+non-fungible-tokens-nft;Non-Fungible Tokens (NFT);https://assets.coingecko.com/coins/images/24383/small/apecoin.jpg?1647476455
+non-fungible-tokens-nft;Non-Fungible Tokens (NFT);https://assets.coingecko.com/coins/images/878/small/decentraland-mana.png?1550108745
+meme-token;Meme Tokens;https://assets.coingecko.com/coins/images/5/small/dogecoin.png?1547792256
+meme-token;Meme Tokens;https://assets.coingecko.com/coins/images/11939/small/shiba.png?1622619446
+meme-token;Meme Tokens;https://assets.coingecko.com/coins/images/14962/small/6GxcPRo3_400x400.jpg?1619157413
+dot-ecosystem;Polkadot Ecosystem;https://assets.coingecko.com/coins/images/12171/small/polkadot.png?1639712644
+dot-ecosystem;Polkadot Ecosystem;https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700
+dot-ecosystem;Polkadot Ecosystem;https://assets.coingecko.com/coins/images/9568/small/m4zRhP5e_400x400.jpg?1576190080
+harmony-ecosystem;Harmony Ecosystem;https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766
+harmony-ecosystem;Harmony Ecosystem;https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png?1565065793
+harmony-ecosystem;Harmony Ecosystem;https://assets.coingecko.com/coins/images/18570/small/fAisLIV.png?1632449282
+cosmos-ecosystem;Cosmos Ecosystem;https://assets.coingecko.com/coins/images/7310/small/oCw2s3GI_400x400.jpeg?1645172042
+cosmos-ecosystem;Cosmos Ecosystem;https://assets.coingecko.com/coins/images/1481/small/cosmos_hub.png?1555657960
+cosmos-ecosystem;Cosmos Ecosystem;https://assets.coingecko.com/coins/images/8284/small/luna1557227471663.png?1567147072
+governance;Governance;https://assets.coingecko.com/coins/images/12504/small/uniswap-uni.png?1600306604
+governance;Governance;https://assets.coingecko.com/coins/images/1364/small/Mark_Maker.png?1585191826
+governance;Governance;https://assets.coingecko.com/coins/images/12632/small/pancakeswap-cake-logo_%281%29.png?1629359065
+decentralized-exchange;Decentralized Exchange Token (DEX);https://assets.coingecko.com/coins/images/12504/small/uniswap-uni.png?1600306604
+decentralized-exchange;Decentralized Exchange Token (DEX);https://assets.coingecko.com/coins/images/12632/small/pancakeswap-cake-logo_%281%29.png?1629359065
+decentralized-exchange;Decentralized Exchange Token (DEX);https://assets.coingecko.com/coins/images/6595/small/RUNE.png?1614160507
+yield-farming;Yield Farming;https://assets.coingecko.com/coins/images/12504/small/uniswap-uni.png?1600306604
+yield-farming;Yield Farming;https://assets.coingecko.com/coins/images/12632/small/pancakeswap-cake-logo_%281%29.png?1629359065
+yield-farming;Yield Farming;https://assets.coingecko.com/coins/images/12645/small/AAVE.png?1601374110
+liquid-staking-tokens;Liquid Staking Tokens;https://assets.coingecko.com/coins/images/13442/small/steth_logo.png?1608607546
+liquid-staking-tokens;Liquid Staking Tokens;https://assets.coingecko.com/coins/images/17752/small/mSOL.png?1644541955
+liquid-staking-tokens;Liquid Staking Tokens;https://assets.coingecko.com/coins/images/18369/small/logo_-_2021-09-15T100934.765.png?1631671781
+play-to-earn;Play To Earn;https://assets.coingecko.com/coins/images/878/small/decentraland-mana.png?1550108745
+play-to-earn;Play To Earn;https://assets.coingecko.com/coins/images/13029/small/axie_infinity_logo.png?1604471082
+play-to-earn;Play To Earn;https://assets.coingecko.com/coins/images/12129/small/sandbox_logo.jpg?1597397942
+gaming;GameFi;https://assets.coingecko.com/coins/images/13029/small/axie_infinity_logo.png?1604471082
+gaming;GameFi;https://assets.coingecko.com/coins/images/12129/small/sandbox_logo.jpg?1597397942
+gaming;GameFi;https://assets.coingecko.com/coins/images/23597/small/gmt.png?1644658792
+eth-2-0-staking;Eth 2.0 Staking;https://assets.coingecko.com/coins/images/13442/small/steth_logo.png?1608607546
+eth-2-0-staking;Eth 2.0 Staking;https://assets.coingecko.com/coins/images/4324/small/U85xTl2.png?1608111978
+eth-2-0-staking;Eth 2.0 Staking;https://assets.coingecko.com/coins/images/13403/small/aETHc.png?1625756490
+wrapped-tokens;Wrapped-Tokens;https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744
+wrapped-tokens;Wrapped-Tokens;https://assets.coingecko.com/coins/images/11370/small/Bitcoin.jpg?1628072791
+wrapped-tokens;Wrapped-Tokens;https://assets.coingecko.com/coins/images/11890/small/wrapped-nexus-mutual.jpg?1595811559
+metaverse;Metaverse;https://assets.coingecko.com/coins/images/878/small/decentraland-mana.png?1550108745
+metaverse;Metaverse;https://assets.coingecko.com/coins/images/13029/small/axie_infinity_logo.png?1604471082
+metaverse;Metaverse;https://assets.coingecko.com/coins/images/12129/small/sandbox_logo.jpg?1597397942
+privacy-coins;Privacy Coins;https://assets.coingecko.com/coins/images/69/small/monero_logo.png?1547033729
+privacy-coins;Privacy Coins;https://assets.coingecko.com/coins/images/486/small/circle-zcash-color.png?1547034197
+privacy-coins;Privacy Coins;https://assets.coingecko.com/coins/images/329/small/decred.png?1547034093
+asset-backed-tokens;Asset-backed Tokens;https://assets.coingecko.com/coins/images/10643/small/ceth2.JPG?1581389598
+asset-backed-tokens;Asset-backed Tokens;https://assets.coingecko.com/coins/images/9442/small/Compound_USDC.png?1567581577
+asset-backed-tokens;Asset-backed Tokens;https://assets.coingecko.com/coins/images/9281/small/cDAI.png?1576467585
+automated-market-maker-amm;Automated Market Maker (AMM);https://assets.coingecko.com/coins/images/12504/small/uniswap-uni.png?1600306604
+automated-market-maker-amm;Automated Market Maker (AMM);https://assets.coingecko.com/coins/images/12632/small/pancakeswap-cake-logo_%281%29.png?1629359065
+automated-market-maker-amm;Automated Market Maker (AMM);https://assets.coingecko.com/coins/images/16724/small/osmo.png?1632763885
+finance-banking;Finance / Banking;https://assets.coingecko.com/coins/images/10643/small/ceth2.JPG?1581389598
+finance-banking;Finance / Banking;https://assets.coingecko.com/coins/images/9442/small/Compound_USDC.png?1567581577
+finance-banking;Finance / Banking;https://assets.coingecko.com/coins/images/3695/small/nexo.png?1548086057
+internet-of-things-iot;Internet of Things (IOT);https://assets.coingecko.com/coins/images/1167/small/VeChain-Logo-768x725.png?1547035194
+internet-of-things-iot;Internet of Things (IOT);https://assets.coingecko.com/coins/images/692/small/IOTA_Swirl.png?1604238557
+internet-of-things-iot;Internet of Things (IOT);https://assets.coingecko.com/coins/images/4284/small/Helium_HNT.png?1612620071
+lending-borrowing;Lending/Borrowing;https://assets.coingecko.com/coins/images/1364/small/Mark_Maker.png?1585191826
+lending-borrowing;Lending/Borrowing;https://assets.coingecko.com/coins/images/12645/small/AAVE.png?1601374110
+lending-borrowing;Lending/Borrowing;https://assets.coingecko.com/coins/images/9761/small/kava.jpg?1639703080
+oracle;Oracle;https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700
+oracle;Oracle;https://assets.coingecko.com/coins/images/10951/small/UMA.png?1586307916
+oracle;Oracle;https://assets.coingecko.com/coins/images/9129/small/WinK.png?1564624891
+sports;Sports;https://assets.coingecko.com/coins/images/13446/small/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.png?1631696776
+sports;Sports;https://assets.coingecko.com/coins/images/8834/small/Chiliz.png?1561970540
+sports;Sports;https://assets.coingecko.com/coins/images/11689/small/Atletico-10.png?1604941960
+storage;Storage;https://assets.coingecko.com/coins/images/12817/small/filecoin.png?1602753933
+storage;Storage;https://assets.coingecko.com/coins/images/4343/small/oRt6SiEN_400x400.jpg?1591059616
+storage;Storage;https://assets.coingecko.com/coins/images/3348/small/Holologo_Profile.png?1547037966
+elrond-ecosystem;Elrond Ecosystem;https://assets.coingecko.com/coins/images/12335/small/elrond3_360.png?1626341589
+elrond-ecosystem;Elrond Ecosystem;https://assets.coingecko.com/coins/images/20657/small/MEX-icon.png?1637540149
+elrond-ecosystem;Elrond Ecosystem;https://assets.coingecko.com/coins/images/16813/small/zpay.png?1647693485
+seigniorage;Seigniorage;https://assets.coingecko.com/coins/images/13422/small/frax_logo.png?1608476506
+seigniorage;Seigniorage;https://assets.coingecko.com/coins/images/12681/small/UST.png?1601612407
+seigniorage;Seigniorage;https://assets.coingecko.com/coins/images/13423/small/frax_share.png?1608478989
+terra-ecosystem;Terra Ecosystem;https://assets.coingecko.com/coins/images/8284/small/luna1557227471663.png?1567147072
+terra-ecosystem;Terra Ecosystem;https://assets.coingecko.com/coins/images/12681/small/UST.png?1601612407
+terra-ecosystem;Terra Ecosystem;https://assets.coingecko.com/coins/images/14420/small/anchor_protocol_logo.jpg?1615965420
+decentralized-derivatives;Derivatives;https://assets.coingecko.com/coins/images/3406/small/SNX.png?1598631139
+decentralized-derivatives;Derivatives;https://assets.coingecko.com/coins/images/10951/small/UMA.png?1586307916
+decentralized-derivatives;Derivatives;https://assets.coingecko.com/coins/images/17500/small/hjnIm9bV.jpg?1628009360
+yield-aggregator;Yield Aggregator;https://assets.coingecko.com/coins/images/15585/small/convex.png?1621256328
+yield-aggregator;Yield Aggregator;https://assets.coingecko.com/coins/images/11849/small/yfi-192x192.png?1598325330
+yield-aggregator;Yield Aggregator;https://assets.coingecko.com/coins/images/12900/small/Rari_Logo_Transparent.png?1613978014
+masternodes;Masternodes;https://assets.coingecko.com/coins/images/19/small/dash-logo.png?1548385930
+masternodes;Masternodes;https://assets.coingecko.com/coins/images/691/small/horizen.png?1555052241
+masternodes;Masternodes;https://assets.coingecko.com/coins/images/5163/small/Flux_symbol_blue-white.png?1617192144
+olympus-pro;Olympus Pro;https://assets.coingecko.com/coins/images/13423/small/frax_share.png?1608478989
+olympus-pro;Olympus Pro;https://assets.coingecko.com/coins/images/18024/small/syn.png?1635002049
+olympus-pro;Olympus Pro;https://assets.coingecko.com/coins/images/15861/small/abracadabra-3.png?1622544862
+analytics;Analytics;https://assets.coingecko.com/coins/images/13397/small/Graph_Token.png?1608145566
+analytics;Analytics;https://assets.coingecko.com/coins/images/14168/small/covalent-cqt.png?1624545218
+analytics;Analytics;https://assets.coingecko.com/coins/images/11973/small/DsNgK0O.png?1596590280
+celo-ecosystem;Celo Ecosystem;https://assets.coingecko.com/coins/images/11090/small/icon-celo-CELO-color-500.png?1592293590
+celo-ecosystem;Celo Ecosystem;https://assets.coingecko.com/coins/images/4324/small/U85xTl2.png?1608111978
+celo-ecosystem;Celo Ecosystem;https://assets.coingecko.com/coins/images/17117/small/logo.png?1626412904
+move-to-earn;Move To Earn;https://assets.coingecko.com/coins/images/23597/small/gmt.png?1644658792
+move-to-earn;Move To Earn;https://assets.coingecko.com/coins/images/25015/small/801485424e1f49bc8d0facff9287eb9b_photo.png?1649827972
+move-to-earn;Move To Earn;https://assets.coingecko.com/coins/images/21841/small/gst.png?1640332626
+synthetic-assets;Synthetic Issuer;https://assets.coingecko.com/coins/images/3406/small/SNX.png?1598631139
+synthetic-assets;Synthetic Issuer;https://assets.coingecko.com/coins/images/10951/small/UMA.png?1586307916
+synthetic-assets;Synthetic Issuer;https://assets.coingecko.com/coins/images/8713/small/STP.png?1560262664
+zilliqa-ecosystem;Zilliqa Ecosystem;https://assets.coingecko.com/coins/images/2687/small/Zilliqa-logo.png?1547036894
+zilliqa-ecosystem;Zilliqa Ecosystem;https://assets.coingecko.com/coins/images/12832/small/StraitsX_Singapore_Dollar_%28XSGD%29_Token_Logo.png?1633936813
+zilliqa-ecosystem;Zilliqa Ecosystem;https://assets.coingecko.com/coins/images/15857/small/xcad.PNG?1622164789
+oec-ecosystem;OEC Ecosystem;https://assets.coingecko.com/coins/images/13708/small/WeChat_Image_20220118095654.png?1642471094
+oec-ecosystem;OEC Ecosystem;https://assets.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png?1606986688
+oec-ecosystem;OEC Ecosystem;https://assets.coingecko.com/coins/images/22087/small/1_Wyot-SDGZuxbjdkaOeT2-A.png?1640764238
+yearn-yfi-partnerships-mergers;Yearn Ecosystem;https://assets.coingecko.com/coins/images/11849/small/yfi-192x192.png?1598325330
+yearn-yfi-partnerships-mergers;Yearn Ecosystem;https://assets.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png?1606986688
+yearn-yfi-partnerships-mergers;Yearn Ecosystem;https://assets.coingecko.com/coins/images/13725/small/xsushi.png?1612538526
+mev-protection;MEV Protection;https://assets.coingecko.com/coins/images/662/small/logo_square_simple_300px.png?1609402668
+mev-protection;MEV Protection;https://assets.coingecko.com/coins/images/13005/small/keeper_dao_logo.jpg?1604316506
+mev-protection;MEV Protection;https://assets.coingecko.com/coins/images/6769/small/Screenshot_33.png?1581942253
+rebase-tokens;Rebase Tokens;https://assets.coingecko.com/coins/images/14483/small/token_OHM_%281%29.png?1628311611
+rebase-tokens;Rebase Tokens;https://assets.coingecko.com/coins/images/4708/small/Ampleforth.png?1561684250
+rebase-tokens;Rebase Tokens;https://assets.coingecko.com/coins/images/20040/small/LPK15ZOW_400x400.jpg?1636425070
+insurance;Insurance;https://assets.coingecko.com/coins/images/11810/small/nexus-mutual.jpg?1594547726
+insurance;Insurance;https://assets.coingecko.com/coins/images/10354/small/logo-grey-circle.png?1614910406
+insurance;Insurance;https://assets.coingecko.com/coins/images/11890/small/wrapped-nexus-mutual.jpg?1595811559
+prediction-markets;Prediction Markets;https://assets.coingecko.com/coins/images/662/small/logo_square_simple_300px.png?1609402668
+prediction-markets;Prediction Markets;https://assets.coingecko.com/coins/images/309/small/REP.png?1596339859
+prediction-markets;Prediction Markets;https://assets.coingecko.com/coins/images/3833/small/kleros.png?1547975322
+decentralized-perpetuals;Perpetuals;https://assets.coingecko.com/coins/images/17500/small/hjnIm9bV.jpg?1628009360
+decentralized-perpetuals;Perpetuals;https://assets.coingecko.com/coins/images/18323/small/arbit.png?1631532468
+decentralized-perpetuals;Perpetuals;https://assets.coingecko.com/coins/images/12882/small/Secondary_Symbol.png?1628233237
+daomaker-ecosystem;DaoMaker Ecosystem;https://assets.coingecko.com/coins/images/13915/small/4.png?1612838831
+daomaker-ecosystem;DaoMaker Ecosystem;https://assets.coingecko.com/coins/images/21178/small/vr.png?1638496975
+daomaker-ecosystem;DaoMaker Ecosystem;https://assets.coingecko.com/coins/images/15857/small/xcad.PNG?1622164789
+music;Music;https://assets.coingecko.com/coins/images/12913/small/AudiusCoinLogo_2x.png?1603425727
+music;Music;https://assets.coingecko.com/coins/images/16548/small/opulous.PNG?1624418744
+music;Music;https://assets.coingecko.com/coins/images/18619/small/W8ZIHKU.png?1650437671
+iotex-ecosystem;IoTeX Ecosystem;https://assets.coingecko.com/coins/images/3334/small/iotex-logo.png?1547037941
+iotex-ecosystem;IoTeX Ecosystem;https://assets.coingecko.com/coins/images/19135/small/gft.png?1635004303
+iotex-ecosystem;IoTeX Ecosystem;https://assets.coingecko.com/coins/images/14101/small/Group-423.png?1614317472
+decentralized-options;Options;https://assets.coingecko.com/coins/images/7805/small/Hxro_Profile_Transparent.png?1622443308
+decentralized-options;Options;https://assets.coingecko.com/coins/images/16652/small/DPX_%281%29.png?1624598630
+decentralized-options;Options;https://assets.coingecko.com/coins/images/16659/small/rDPX_200x200_Coingecko.png?1624614475
+social-money;Social Money;https://assets.coingecko.com/coins/images/12843/small/image.png?1611212077
+social-money;Social Money;https://assets.coingecko.com/coins/images/11797/small/WHALE.png?1595004706
+social-money;Social Money;https://assets.coingecko.com/coins/images/14815/small/gcr.jpeg?1641461197
+guild-scholarship;Guild and Scholarship;https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png?1634972154
+guild-scholarship;Guild and Scholarship;https://assets.coingecko.com/coins/images/17358/small/le1nzlO6_400x400.jpg?1632465691
+guild-scholarship;Guild and Scholarship;https://assets.coingecko.com/coins/images/20933/small/guildfi-logo-200.png?1638003537
+synths;Synths;https://assets.coingecko.com/coins/images/5013/small/sUSD.png?1616150765
+synths;Synths;https://assets.coingecko.com/coins/images/8843/small/sETH.png?1616150207
+synths;Synths;https://assets.coingecko.com/coins/images/8838/small/sBTC.png?1616149734
+ohm-fork;Ohm Fork;https://assets.coingecko.com/coins/images/18126/small/time.PNG?1630621941
+ohm-fork;Ohm Fork;https://assets.coingecko.com/coins/images/19169/small/klima-logo.png?1634606729
+ohm-fork;Ohm Fork;https://assets.coingecko.com/coins/images/21718/small/3.png?1640248507
+gambling;Gambling;https://assets.coingecko.com/coins/images/761/small/funfair.png?1592404368
+gambling;Gambling;https://assets.coingecko.com/coins/images/21173/small/Decentral_Games_Logo-1.png?1638441275
+gambling;Gambling;https://assets.coingecko.com/coins/images/10251/small/logo.png?1610592699
+heco-chain-ecosystem;HECO Chain Ecosystem;https://assets.coingecko.com/coins/images/13775/small/mdex.png?1611739676
+heco-chain-ecosystem;HECO Chain Ecosystem;https://assets.coingecko.com/coins/images/12704/small/token.png?1601876182
+heco-chain-ecosystem;HECO Chain Ecosystem;https://assets.coingecko.com/coins/images/14112/small/antimatter_icon.png?1614395992
+fan-token;Fan Token;https://assets.coingecko.com/coins/images/11689/small/Atletico-10.png?1604941960
+fan-token;Fan Token;https://assets.coingecko.com/coins/images/15799/small/mJgwTHzCVVCJlqo1tF0NWP57igOYSXr5k1Vqvomd.png?1621929124
+fan-token;Fan Token;https://assets.coingecko.com/coins/images/11620/small/psg.png?1592023100
+defi-index;DeFi Index;https://assets.coingecko.com/coins/images/12465/small/defi_pulse_index_set.png?1600051053
+defi-index;DeFi Index;https://assets.coingecko.com/coins/images/14392/small/ETH2x-FLI_%281%29.png?1615875910
+defi-index;DeFi Index;https://assets.coingecko.com/coins/images/24483/small/icETH-token-logo.png?1647826356
+tourism;Tourism;https://assets.coingecko.com/coins/images/4659/small/qX7fh69Q_400x400-1.jpg?1636680685
+tourism;Tourism;https://assets.coingecko.com/coins/images/3014/small/Travala.png?1558020611
+tourism;Tourism;https://assets.coingecko.com/coins/images/1357/small/LOC_Transparent_New.png?1579491094
+kardiachain-ecosystem;KardiaChain Ecosystem;https://assets.coingecko.com/coins/images/7942/small/kai.png?1647079540
+kardiachain-ecosystem;KardiaChain Ecosystem;https://assets.coingecko.com/coins/images/15321/small/mydefi.PNG?1620512455
+kardiachain-ecosystem;KardiaChain Ecosystem;https://assets.coingecko.com/coins/images/17761/small/icon_%287%29.png?1629187241
+farming-as-a-service-faas;Farming-as-a-Service (FaaS);https://assets.coingecko.com/coins/images/21543/small/refi.PNG?1639451123
+farming-as-a-service-faas;Farming-as-a-Service (FaaS);https://assets.coingecko.com/coins/images/21221/small/61a6125865cccc3140d0bdd9_Logo.png?1638675170
+farming-as-a-service-faas;Farming-as-a-Service (FaaS);https://assets.coingecko.com/coins/images/23551/small/Logo-Digits-DAO-Icon-01.jpg?1644462126
+aave-tokens;Aave Tokens;https://assets.coingecko.com/coins/images/11619/small/aETH_2x.png?1591976597
+aave-tokens;Aave Tokens;https://assets.coingecko.com/coins/images/11674/small/aUSDC.png?1592546449
+aave-tokens;Aave Tokens;https://assets.coingecko.com/coins/images/10843/small/aDAI.png?1584698791
+tokenized-stock;Tokenized Stock;https://assets.coingecko.com/coins/images/14780/small/NukbRo-E_400x400.png?1618386481
+tokenized-stock;Tokenized Stock;https://assets.coingecko.com/coins/images/14881/small/NukbRo-E_400x400.png?1618888501
+tokenized-stock;Tokenized Stock;https://assets.coingecko.com/coins/images/19339/small/bito_ticker_lg.png?1635218957
